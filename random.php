@@ -1,4 +1,5 @@
 <?php
+//test
   function random_int_by_seed($seed,array $table,$daily=false){
     $seed = (string)filter_var($seed);
 
